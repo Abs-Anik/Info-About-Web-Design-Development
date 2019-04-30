@@ -1,0 +1,131 @@
+#brand{
+	width: 55px;
+	height: 55px;
+}
+header{
+	background-color: #FF3333;
+}
+
+
+.nav-item{
+	background-color: #fff;
+	padding: 6px;
+	
+	margin-right: 8px;
+	transition: .5s;
+	
+}
+.nav-link{
+	color:#FF3333;
+	
+}
+
+.nav-item:hover{
+	background-color: #FF3333;
+	color:white;
+}
+
+#div2{
+	margin-top: 100px;
+}
+.para{
+	
+	color: #fff;
+	margin-bottom: 50px;
+
+}
+
+.para1{
+	color: #fff;
+	padding-bottom: 100px;
+	
+}
+
+.why{
+	font-weight: bold;
+	margin-top: 80px;
+}
+.pic1{
+	width: 150px;
+	height: 150px;
+	margin-top: 50px;
+}
+
+.head1{
+	font-weight: lighter;
+	font-size: 35px;
+
+}
+
+.p1{
+	font-size: 15px;
+}
+
+.pic4{
+	width: 150px;
+	height: 150px;
+	margin-top: 50px;
+}
+
+.pic5{
+	width: 150px;
+	height: 150px;
+	margin-top: 50px;
+}
+
+.pic6{
+	width: 150px;
+	height: 150px;
+	margin-top: 50px;
+}
+
+.second-h2{
+	margin-top: 135px;
+	font-weight: bold;
+}
+.h{
+	width: 150px;
+	height: 150px;
+}
+
+#sec-3{
+	background-color: #FF3333;
+	min-height: 300px;
+}
+#sec-4{
+	background-color: #FF3333;
+}
+
+.head-3{
+	font-weight: bold;
+	padding-top: 100px;
+}
+hr{
+	background-color: #fff;
+	height: 2px;
+}
+
+.c-1{
+	min-height: 250px;
+}
+
+#foot{
+	background-color: #FF3333;
+	color: #fff;
+}
+
+#foot h1{
+	padding-top: 70px;
+}
+
+#foot p{
+	padding: 80px;
+	margin-top: -50px;
+}
+
+.bg{
+	background-color: #FF3333;
+}
+
+
+
